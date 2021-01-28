@@ -21,6 +21,6 @@ Hyperparameter tuning can be done to adjust the model parameters to such value t
 Also, it is to be noted that accuracy is not the only metric that we should rely on because sometimes there may be cases of class imbalance which gives prediction due to majority classes at the expense of minority classes. Hence, we should also consider other metrics like precision, recall or sensitivity, specificity, f1 score,etc.
 
 
-In case if unable to view files in github, then use https://nbviewer.jupyter.org/
+In case if unable to view files in github, then use 
 
-Link-https://github.com/RitwikBijalwan/Breast-Cancer-Classification/blob/master/Breast%20Cancer%20Classification(Support%20Vector%20Machine).ipynb
+https://nbviewer.jupyter.org/github/RitwikBijalwan/Breast-Cancer-Classification/blob/master/Breast%20Cancer%20Classification%28Support%20Vector%20Machine%29.ipynb
