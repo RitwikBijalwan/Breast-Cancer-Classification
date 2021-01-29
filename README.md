@@ -23,4 +23,4 @@ Also, it is to be noted that accuracy is not the only metric that we should rely
 
 In case if unable to view files in github, then use 
 
-https://nbviewer.jupyter.org/github/RitwikBijalwan/Breast-Cancer-Classification/blob/master/Breast%20Cancer%20Classification%28Support%20Vector%20Machine%29.ipynb
+https://nbviewer.jupyter.org/github/RitwikBijalwan/Breast-Cancer-Classification/blob/master/Breast%20Cancer%20Classification%28Support%20Vector%20Machine%29.ipynb?flush_cache=true
