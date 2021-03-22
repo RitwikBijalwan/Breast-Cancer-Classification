@@ -1,5 +1,5 @@
 # Breast-Cancer-Classification
-The project is done as a case study of Breast Cancer Classification with implementation of Support Vector Machine.
+The project is done as implementation of Support Vector Machine for Breast Cancer Classification.
 Dataset used for the purpose is in-built dataset provided by sklearn.
 
 
